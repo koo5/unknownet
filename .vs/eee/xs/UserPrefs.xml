@@ -8,13 +8,10 @@
         <State name="__root__">
           <Node name="eee" expanded="True">
             <Node name="eee" expanded="True">
-              <Node name="References" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
